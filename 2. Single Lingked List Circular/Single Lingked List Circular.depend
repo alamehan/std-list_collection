@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490020383 source:c:\users\acer\desktop\latihan no error 100%\2.single lingked list circular\single lingked list circular\sllc.cpp
+	"SLLC.h"
+
+1490017244 c:\users\acer\desktop\latihan no error 100%\2.single lingked list circular\single lingked list circular\sllc.h
+	<iostream>
+
+1490020888 source:c:\users\acer\desktop\latihan no error 100%\2.single lingked list circular\single lingked list circular\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"SLLC.h"
+

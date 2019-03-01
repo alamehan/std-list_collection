@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1487566198 source:c:\users\acer\desktop\zbelajar\belajar\tugas kelompok\gabung pecah list\linklist.cpp
+	"linklist.h"
+
+1487564143 c:\users\acer\desktop\zbelajar\belajar\tugas kelompok\gabung pecah list\linklist.h
+	<iostream>
+
+1487564320 source:c:\users\acer\desktop\zbelajar\belajar\tugas kelompok\gabung pecah list\main.cpp
+	"linklist.h"
+	<iostream>
+
+1487566396 source:d:\file kampus\if semester 2\2. struktur data\3. berkas\3. ngoding\latihan lingked list [collection]\latihan no error 100%\6. gabung pecah list\linklist.cpp
+	"linklist.h"
+
+1487564143 d:\file kampus\if semester 2\2. struktur data\3. berkas\3. ngoding\latihan lingked list [collection]\latihan no error 100%\6. gabung pecah list\linklist.h
+	<iostream>
+
+1487564320 source:d:\file kampus\if semester 2\2. struktur data\3. berkas\3. ngoding\latihan lingked list [collection]\latihan no error 100%\6. gabung pecah list\main.cpp
+	"linklist.h"
+	<iostream>
+

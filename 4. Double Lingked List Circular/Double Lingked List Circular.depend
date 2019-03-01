@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1490022078 source:c:\users\acer\desktop\latihan no error 100%\4.double lingked list circular\double lingked list circular\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"DLLC.h"
+
+1490021531 c:\users\acer\desktop\latihan no error 100%\4.double lingked list circular\double lingked list circular\dllc.h
+	<iostream>
+
+1490130169 source:c:\users\acer\desktop\latihan no error 100%\4.double lingked list circular\double lingked list circular\dllc.cpp
+	"DLLC.h"
+
+1490022078 source:c:\users\acer\desktop\latihan no error 100%\4.double lingked list circular\double lingked list circular\double lingked list circular\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"DLLC.h"
+
+1490021531 c:\users\acer\desktop\latihan no error 100%\4.double lingked list circular\double lingked list circular\double lingked list circular\dllc.h
+	<iostream>
+
+1490130807 source:d:\file kampus\if semester 2\2. struktur data\3. berkas\3. ngoding\latihan lingked list [collection]\latihan no error 100%\4. double lingked list circular\dllc.cpp
+	"DLLC.h"
+
+1490021531 d:\file kampus\if semester 2\2. struktur data\3. berkas\3. ngoding\latihan lingked list [collection]\latihan no error 100%\4. double lingked list circular\dllc.h
+	<iostream>
+
+1490022078 source:d:\file kampus\if semester 2\2. struktur data\3. berkas\3. ngoding\latihan lingked list [collection]\latihan no error 100%\4. double lingked list circular\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"DLLC.h"
+

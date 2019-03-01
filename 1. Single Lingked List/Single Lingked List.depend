@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1489992795 source:c:\users\acer\desktop\latihan no error 100%\1.single lingked list\single lingked list\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"SLL.h"
+
+1490000126 c:\users\acer\desktop\latihan no error 100%\1.single lingked list\single lingked list\sll.h
+	<iostream>
+
+1489992795 source:c:\users\acer\desktop\latihan no error 100%\1.single lingked list\single lingked list\sll.cpp
+	"SLL.h"
+
+1489992795 source:d:\file kampus\if semester 2\2. struktur data\3. berkas\3. ngoding\latihan lingked list [collection]\latihan no error 100%\1. single lingked list\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"SLL.h"
+
+1490000126 d:\file kampus\if semester 2\2. struktur data\3. berkas\3. ngoding\latihan lingked list [collection]\latihan no error 100%\1. single lingked list\sll.h
+	<iostream>
+
+1489992795 source:d:\file kampus\if semester 2\2. struktur data\3. berkas\3. ngoding\latihan lingked list [collection]\latihan no error 100%\1. single lingked list\sll.cpp
+	"SLL.h"
+
